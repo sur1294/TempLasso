@@ -1,0 +1,116 @@
+{
+  "prefix": "adni",
+  "n": 138,
+  "stratify": "label_tr",
+  "seeds": [
+    42,
+    1042,
+    2042,
+    3042,
+    4042
+  ],
+  "static_h5": "/Users/sylee/tbn-data-adni/tr2_dur288/adni_schaefer100_static.h5",
+  "temporal_h5": "/Users/sylee/tbn-data-adni/tr2_dur288/adni_schaefer100_tr2_w44_s22_temporalfc.h5",
+  "splits": {
+    "42": {
+      "train": {
+        "n": 96,
+        "control": 56,
+        "patient": 40,
+        "slow_patient": 18
+      },
+      "val": {
+        "n": 14,
+        "control": 8,
+        "patient": 6,
+        "slow_patient": 3
+      },
+      "test": {
+        "n": 28,
+        "control": 16,
+        "patient": 12,
+        "slow_patient": 5
+      }
+    },
+    "1042": {
+      "train": {
+        "n": 96,
+        "control": 56,
+        "patient": 40,
+        "slow_patient": 18
+      },
+      "val": {
+        "n": 14,
+        "control": 8,
+        "patient": 6,
+        "slow_patient": 3
+      },
+      "test": {
+        "n": 28,
+        "control": 16,
+        "patient": 12,
+        "slow_patient": 5
+      }
+    },
+    "2042": {
+      "train": {
+        "n": 96,
+        "control": 56,
+        "patient": 40,
+        "slow_patient": 18
+      },
+      "val": {
+        "n": 14,
+        "control": 8,
+        "patient": 6,
+        "slow_patient": 3
+      },
+      "test": {
+        "n": 28,
+        "control": 16,
+        "patient": 12,
+        "slow_patient": 5
+      }
+    },
+    "3042": {
+      "train": {
+        "n": 96,
+        "control": 56,
+        "patient": 40,
+        "slow_patient": 18
+      },
+      "val": {
+        "n": 14,
+        "control": 8,
+        "patient": 6,
+        "slow_patient": 3
+      },
+      "test": {
+        "n": 28,
+        "control": 16,
+        "patient": 12,
+        "slow_patient": 5
+      }
+    },
+    "4042": {
+      "train": {
+        "n": 96,
+        "control": 56,
+        "patient": 40,
+        "slow_patient": 18
+      },
+      "val": {
+        "n": 14,
+        "control": 8,
+        "patient": 6,
+        "slow_patient": 3
+      },
+      "test": {
+        "n": 28,
+        "control": 16,
+        "patient": 12,
+        "slow_patient": 5
+      }
+    }
+  }
+}

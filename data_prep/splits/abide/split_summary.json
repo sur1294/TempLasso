@@ -1,0 +1,102 @@
+{
+  "protocol": "stratified 70/10/20",
+  "seeds": [
+    42,
+    1042,
+    2042,
+    3042,
+    4042
+  ],
+  "n_subjects": 1025,
+  "class_distribution": {
+    "control": 537,
+    "patient": 488
+  },
+  "splits": {
+    "42": {
+      "train": {
+        "n": 717,
+        "control": 376,
+        "patient": 341
+      },
+      "val": {
+        "n": 103,
+        "control": 54,
+        "patient": 49
+      },
+      "test": {
+        "n": 205,
+        "control": 107,
+        "patient": 98
+      }
+    },
+    "1042": {
+      "train": {
+        "n": 717,
+        "control": 376,
+        "patient": 341
+      },
+      "val": {
+        "n": 103,
+        "control": 54,
+        "patient": 49
+      },
+      "test": {
+        "n": 205,
+        "control": 107,
+        "patient": 98
+      }
+    },
+    "2042": {
+      "train": {
+        "n": 717,
+        "control": 376,
+        "patient": 341
+      },
+      "val": {
+        "n": 103,
+        "control": 54,
+        "patient": 49
+      },
+      "test": {
+        "n": 205,
+        "control": 107,
+        "patient": 98
+      }
+    },
+    "3042": {
+      "train": {
+        "n": 717,
+        "control": 376,
+        "patient": 341
+      },
+      "val": {
+        "n": 103,
+        "control": 54,
+        "patient": 49
+      },
+      "test": {
+        "n": 205,
+        "control": 107,
+        "patient": 98
+      }
+    },
+    "4042": {
+      "train": {
+        "n": 717,
+        "control": 376,
+        "patient": 341
+      },
+      "val": {
+        "n": 103,
+        "control": 54,
+        "patient": 49
+      },
+      "test": {
+        "n": 205,
+        "control": 107,
+        "patient": 98
+      }
+    }
+  }
+}

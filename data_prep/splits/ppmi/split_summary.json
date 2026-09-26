@@ -1,0 +1,116 @@
+{
+  "prefix": "ppmi",
+  "n": 195,
+  "stratify": "label",
+  "seeds": [
+    42,
+    1042,
+    2042,
+    3042,
+    4042
+  ],
+  "static_h5": "/Users/sylee/tbn-data-ppmi/ppmi_schaefer100_static.h5",
+  "temporal_h5": "/Users/sylee/tbn-data-ppmi/ppmi_schaefer100_tr2_w44_s22_temporalfc.h5",
+  "splits": {
+    "42": {
+      "train": {
+        "n": 136,
+        "control": 10,
+        "patient": 79,
+        "slow_patient": 0
+      },
+      "val": {
+        "n": 20,
+        "control": 2,
+        "patient": 12,
+        "slow_patient": 0
+      },
+      "test": {
+        "n": 39,
+        "control": 3,
+        "patient": 22,
+        "slow_patient": 0
+      }
+    },
+    "1042": {
+      "train": {
+        "n": 136,
+        "control": 10,
+        "patient": 79,
+        "slow_patient": 0
+      },
+      "val": {
+        "n": 20,
+        "control": 2,
+        "patient": 12,
+        "slow_patient": 0
+      },
+      "test": {
+        "n": 39,
+        "control": 3,
+        "patient": 22,
+        "slow_patient": 0
+      }
+    },
+    "2042": {
+      "train": {
+        "n": 136,
+        "control": 10,
+        "patient": 79,
+        "slow_patient": 0
+      },
+      "val": {
+        "n": 20,
+        "control": 2,
+        "patient": 12,
+        "slow_patient": 0
+      },
+      "test": {
+        "n": 39,
+        "control": 3,
+        "patient": 22,
+        "slow_patient": 0
+      }
+    },
+    "3042": {
+      "train": {
+        "n": 136,
+        "control": 10,
+        "patient": 79,
+        "slow_patient": 0
+      },
+      "val": {
+        "n": 20,
+        "control": 2,
+        "patient": 12,
+        "slow_patient": 0
+      },
+      "test": {
+        "n": 39,
+        "control": 3,
+        "patient": 22,
+        "slow_patient": 0
+      }
+    },
+    "4042": {
+      "train": {
+        "n": 136,
+        "control": 10,
+        "patient": 79,
+        "slow_patient": 0
+      },
+      "val": {
+        "n": 20,
+        "control": 2,
+        "patient": 12,
+        "slow_patient": 0
+      },
+      "test": {
+        "n": 39,
+        "control": 3,
+        "patient": 22,
+        "slow_patient": 0
+      }
+    }
+  }
+}
